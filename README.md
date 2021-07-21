@@ -1,6 +1,6 @@
 I am @Danfroes.
 
-Originally from Tv, movies, animation and internet), now I am starting to study programming. Still in the basics - I don't even have a programming language focus yet. 
+Originally from Tv, movies, animation and internet, now I am starting to study programming. Still in the basics - I don't even have a programming language focus yet. 
 
 I will be modifying / renewing this bio as soon as I learn sometihng.
 
