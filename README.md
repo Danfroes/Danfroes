@@ -1,6 +1,8 @@
-I am @Danfroes.
+I am [Danfroes](https://github.com/Danfroes).
 
-Originally from Tv, movies, animation and internet, now I am starting to study programming. Still in the basics - I don't even have a programming language focus yet. 
+Originally from Tv, movies, animation and internet, now I am starting to study programming. Still in the basics - I don't even have a programming language focus yet. I did some online curses, introdutory, but still need to really start.
+
+(think i'm gonna start with Java or Python)
 
 I will be modifying / renewing this bio as soon as I learn sometihng.
 
